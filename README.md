@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋, I’m Virgil Petru</h1>
 <hr>
 <h2> Welcome to my page! </h2>
-<p>Aspiring Junior Web Developer 👨🏻‍💻 with background in HoReCa from 🇷🇴 Calarasi, Romania, currently living in the sunny 🇪🇸 Barcelona, Spain.</p>
+<p>Aspiring Junior Full Stack Developer 👨🏻‍💻 with background in HoReCa from 🇷🇴 Calarasi, Romania, currently living in the sunny 🇪🇸 Barcelona, Spain.</p>
 
 <p>My journey started with: </p>
 <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy logo"/>
