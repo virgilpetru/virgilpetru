@@ -5,7 +5,7 @@
 
 <p>My journey started with: </p>
 <img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy logo"/>,
-Bootcamp AI & Machine Learning with Python 
+Graduated a Bootcamp AI & Machine Learning with Python in December 2024
 
 <p> Tools That I Use: </p>
 <p align="left"> 
